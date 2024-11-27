@@ -7,11 +7,11 @@ build_options = {'packages': [], 'excludes': []}
 base = 'gui'
 
 executables = [
-    Executable('main.py', base=base, target_name = 'CommonReminders')
+    Executable('main.py', base=base, target_name = 'commonReminders')
 ]
 
-setup(name='CommonReminders',
-      version = '1',
+setup(name='commonReminders',
+      version = '1.0',
       description = '',
       options = {'build_exe': build_options},
       executables = executables)
