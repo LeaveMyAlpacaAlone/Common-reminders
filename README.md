@@ -1,13 +1,13 @@
 # Common reminders
 ## A simple app to improve your habits
-<img src="./Images/Ui.png" width="100%" alt="Screenshot of  UI">
+<img src="./Images/Ui.png" width="50%" alt="Screenshot of  UI">
 This project aims to be as **simple** as it gets for user and allow you to:
 
 - Modify settings using **simple UI** that you open by **custom** shortcut
 - Set sound alerts so you always remember to stay hydrated! *Yeah it's hard*
 - Apply **custom** sounds for whatever you need so you know exactly when you need to do push-ups!
 - Configure to show toast notifications on windows 
-<img src="./Images/toast notification.png" width="100%" alt="Screenshot of toast notification">
+<img src="./Images/toast notification.png" width="45%" alt="Screenshot of toast notification">
 ## Installation
 
 ## compile your own exe (recommended but harder)
@@ -32,7 +32,7 @@ This project aims to be as **simple** as it gets for user and allow you to:
 - type C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp 
 - create shortcut
 ## download exe (easier)
-1. download from [release] (https://github.com/LeaveMyAlpacaAlone/commonReminders/releases/)
+1. download from [release](https://github.com/LeaveMyAlpacaAlone/commonReminders/releases/)
 2. un compress it
 3. (optional) put shortcut to exe file to autostart:
 - press win+R
@@ -49,9 +49,9 @@ settings should be saved inside special save file
 ## contribution guide
 
 ### I see a scary bug
-write a [issue] (https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe how to replicate it so i can fix it sooner
+write a [issue](https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe how to replicate it so i can fix it sooner
 ### There is a really nice feature that can be added
-write a [issue] (https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe why should it be added. If it seams boring, unclear or rarely used it might be added later or never!
+write a [issue](https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe why should it be added. If it seams boring, unclear or rarely used it might be added later or never!
 ### There is a nice feature that i know and want to add
 <b>great! thanks in advance!
-try to split [pul requests] (https://www.youtube.com/watch?v=8lGpZkjnkt4) to smaller parts and clearly label what they are doing and why.
+try to split [pul requests](https://www.youtube.com/watch?v=8lGpZkjnkt4) to smaller parts and clearly label what they are doing and why.
