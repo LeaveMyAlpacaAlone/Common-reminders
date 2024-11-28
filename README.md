@@ -25,8 +25,8 @@ This project aims to be as **simple** as it gets for user and allow you to:
 - app type- G
 - press enter 
 - run this now - y
-
  And you have a new exe file!
+
  5. (optional) put shortcut to exe file to autostart:
 - press win+R
 - type C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp 
