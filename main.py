@@ -247,12 +247,18 @@ def AddNewReminder():
     reminder =Reminder(5,"","",showWindowsNotification= True, toast=newToast)
     reminders.append(reminder)
     threading.Thread(target= RunReminder, args=(reminder,), daemon= True).start()
-   
+    
+    # save changes
+    ApplyButtonPressed()
+    
     DisplayUi()
+    
 def RemoveReminder(reminderIndex):
     global reminders
     del reminders[reminderIndex]
     DisplayUi()
+    
+    # save changes
     ApplyButtonPressed()
 
 reminders = []
@@ -271,7 +277,7 @@ root = None
     
     
 closeApp = False
-SetupShortcuts()
 
 while not closeApp:
+    SetupShortcuts()
     time.sleep (1)
