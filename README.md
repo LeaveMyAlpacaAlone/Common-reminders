@@ -8,9 +8,9 @@ This project aims to be as **simple** as it gets for user and allow you to:
 - Apply **custom** sounds for whatever you need so you know exactly when you need to do push-ups!
 - Configure to show toast notifications on windows 
 <img src="./Images/toast notification.png" width="45%" alt="Screenshot of toast notification">
-## Installation
 
-## compile your own exe (recommended but harder)
+## Installation
+### compile your own exe (recommended but harder)
 0. clone this repo
 1. make sure you have installed python
 3. open in commandline directory where you have cloned this repo and type:
@@ -26,12 +26,12 @@ This project aims to be as **simple** as it gets for user and allow you to:
 - press enter 
 - run this now - y
 
- And you have a new exe file !
+ And you have a new exe file!
  5. (optional) put shortcut to exe file to autostart:
 - press win+R
 - type C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp 
 - create shortcut
-## download exe (easier)
+### download exe (easier)
 1. download from [release](https://github.com/LeaveMyAlpacaAlone/commonReminders/releases/)
 2. un compress it
 3. (optional) put shortcut to exe file to autostart:
@@ -48,7 +48,7 @@ App window might be hidden on your task bar!
 settings should be saved inside special save file
 ## contribution guide
 
-### I see a scary bug
+### I've encountered a bug!
 write a [issue](https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe how to replicate it so i can fix it sooner
 ### There is a really nice feature that can be added
 write a [issue](https://www.youtube.com/watch?v=6HWw7rhwvtY) about it and describe why should it be added. If it seams boring, unclear or rarely used it might be added later or never!
